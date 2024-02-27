@@ -1,4 +1,5 @@
 # JavaScript Code Explanation
+## Currently Non-functional
 
 This explanation covers two JavaScript files, `Star.js` and `Sketch.js`, which are part of a p5.js project. The project creates a dynamic starfield animation, where the stars' movement and appearance are influenced by the mouse position and frame rate.
 
